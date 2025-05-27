@@ -11,3 +11,5 @@ Meanwhile, if you find the content useful, please, feel free to:
 * Star the repository to bump my GitHub credibility :)
 
 And, of couse, have fun doing High Performance Computing with PyTorch!
+
+**Note**: I used `notebook=7.3.2` with integrated RISE in case you want to access/modify the slideshow mode.
