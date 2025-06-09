@@ -1,5 +1,5 @@
 # PyTorch for Scientists
-A presentation/notebook that expresses my view on things making PyTorch efficient that targets researchers in AI and other domains.
+A presentation/notebook that expresses my view on things to make PyTorch efficient that targets researchers in AI and other domains.
 
 It is Work In Progress [WIP], and I plan on expanding it.
 
